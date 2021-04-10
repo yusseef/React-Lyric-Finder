@@ -1,4 +1,4 @@
-# LyricFinder App || Refactored using React Hooks
+# LyricFinder App 
 
 > App that finds song lyrics using React and the Musixmatch API.
 
@@ -21,17 +21,3 @@ npm start
 npm run build
 ```
 
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License

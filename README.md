@@ -21,3 +21,5 @@ npm start
 npm run build
 ```
 
+### Netlify url 
+[Open to live preview!](https://60dc89e6a344d30008e1a429--confident-noyce-f32ecc.netlify.app/)
